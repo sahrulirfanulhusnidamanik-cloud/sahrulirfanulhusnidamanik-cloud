@@ -1,4 +1,4 @@
-# Halo, saya Sahrul1901
+# Halo, saya Sahrul
 ## 🙋‍♀️ Introduction
 Saya adalah mahasiswa Informatika yang tertarik pada UI/UX Design dan Web Development. 
 Saat ini saya sedang belajar dan mengembangkan project sederhana.
