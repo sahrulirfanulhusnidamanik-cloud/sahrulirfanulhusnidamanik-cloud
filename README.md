@@ -9,7 +9,7 @@ Saat ini saya sedang belajar dan mengembangkan project sederhana.
 - Git & GitHub
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahrul1901&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahrulirfanulhusnidamanik-cloud&show_icons=true&theme=tokyonight)
 
 ## 🌐 Social Media
 - Instagram: (https://www.instagram.com/shrul_irfnl101?igsh=MXR3ZXU0N3doaDJ2bA%3D%3D&utm_source=qr)
